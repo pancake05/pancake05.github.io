@@ -1,6 +1,5 @@
-p{
-    font-family: Arial, "Mevelvetica Neue", Helvetica, sans-serif;
-    font-size: 15px;
-    color: #999;
-    text-align: justify;
+.example-block{
+    border: 1px solid #000
+    margin: 10px
+    
 }
